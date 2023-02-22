@@ -1,0 +1,6 @@
+﻿__pycache__
+.idea
+.vscode
+.venv
+.scannerwork
+.DS_Store
